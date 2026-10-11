@@ -32,4 +32,6 @@ include::figures_tables_code.adoc[]
 
 include::links.adoc[]
 
+include::pdf_merge.adoc[]
+
 include::admonition.adoc[]
